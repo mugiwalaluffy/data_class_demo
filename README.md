@@ -51,4 +51,6 @@
     
     4. 总销售额随时间的变化：2014年第三季度的销售额明显减少，可能是没有完全的统计到所有的数据造成的。
   ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/trend1.png)
+  
+    5. 。。。。。。
     
