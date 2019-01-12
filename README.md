@@ -38,8 +38,13 @@
     5. 。。。。。。
     
     
-  项目结果
+  项目结果展示
   
-    1. 可视化
+    1. 各个市场的销售量对比
  ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/revenue1.png)
-    3.
+    
+    2. 最热卖的产品在各国的销售量对比
+  ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/trend1.png)
+    
+    3. 户外运动产品的销售量变化
+    
