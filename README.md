@@ -40,7 +40,7 @@
     
   项目结果展示
   
-    1. 各个市场的销售量对比
+    1. 各个市场的销售量对比：美国，日本，中国和加拿大是最大的四个市场。
  ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/revenue1.png)
     
     2. 最热卖的产品在各国的销售量对比
