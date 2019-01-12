@@ -35,7 +35,7 @@
     2. 最受欢迎的产品类型：分析主打产品的变化从而估计市场需求的变化
     3. 销量最大的渠道：分析是否需要调整销售渠道
     4. 每个产品销售的趋势：预测未来该产品的销售前景
-    5. 。。。。。。
+    5. you may add more...
     
     
   分析结果展示
@@ -52,5 +52,5 @@
     4. 总销售额随时间的变化：2014年第三季度的销售额明显减少，可能是没有完全的统计到所有的数据造成的。
   ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/trend1.png)
   
-    5. 。。。。。。
+    5. you may add more...
     
