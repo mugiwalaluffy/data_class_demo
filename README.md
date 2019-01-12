@@ -29,7 +29,7 @@
       Gross margin      （毛利润）
       
       
-  项目计划
+  分析步骤
     
     1. 最大的市场：借鉴最大市场的经验开拓新的市场
     2. 最受欢迎的产品类型：分析主打产品的变化从而估计市场需求的变化
@@ -38,7 +38,7 @@
     5. 。。。。。。
     
     
-  项目结果展示
+  分析结果展示
   
     1. 各个市场的销售量对比：美国，日本，中国和加拿大是最大的四个市场。
  ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/revenue1.png)
