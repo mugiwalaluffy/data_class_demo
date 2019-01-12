@@ -44,7 +44,7 @@
   ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/analysis_cat_china.png)
     
     2. 韩国市场的销售情况：销售额最大的是帐篷类产品，通过网页购买的占绝大多数，普通商品店、运动品店和高尔夫用品店的销售额为前三甲。
-  ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/analysis_cat_china.png)
+  ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/analysis_cat_korea.png)
     
     3. 各国市场的销售量对比：美国，日本，中国和加拿大是最大的四个市场。
  ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/country1.png)
