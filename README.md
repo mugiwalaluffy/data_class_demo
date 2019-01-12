@@ -41,14 +41,14 @@
   分析结果展示
   
     1. 中国市场的销售情况：销售额最大的是眼睛类产品，通过网页购买的占绝大多数，户外商品店、运动品店和高尔夫用品店的销售额为前三甲。
-  ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/analysis_cat_1.png)
+  ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/analysis_cat_china.png)
     
+    2. 韩国市场的销售情况：销售额最大的是帐篷类产品，通过网页购买的占绝大多数，普通商品店、运动品店和高尔夫用品店的销售额为前三甲。
+  ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/analysis_cat_china.png)
     
-    1. 各个市场的销售量对比：美国，日本，中国和加拿大是最大的四个市场。
- ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/revenue1.png)
+    3. 各国市场的销售量对比：美国，日本，中国和加拿大是最大的四个市场。
+ ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/country1.png)
     
-    2. 最热卖的产品在各国的销售量对比
+    4. 总销售额随时间的变化：2014年第三季度的销售额明显减少，可能是没有完全的统计到所有的数据造成的。
   ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/trend1.png)
-    
-    3. 户外运动产品的销售量变化
     
