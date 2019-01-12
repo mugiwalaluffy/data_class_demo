@@ -41,5 +41,5 @@
   项目结果
   
     1. 可视化
-    2. ![Image text](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/revenue1.png)
+    2. ![image](https://github.com/mugiwalaluffy/data_class_demo/raw/master/images/revenue1.png)
     3.
